@@ -39,8 +39,23 @@ const App = () => {
 */
 
 const App = () => {
+    const options = [
+        {
+            label: 'The Color Red',
+            value: 'red'
+        },
+        {
+            label: 'The Color Green',
+            value: 'green'
+        },
+        {
+            label: 'A Shade of Blue',
+            value: 'blue'
+        }
+    ];
+
     return (
-        <div><Dropdown /></div>
+        <div><Dropdown options={options}/></div>
     );
 }
 
