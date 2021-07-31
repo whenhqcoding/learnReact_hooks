@@ -12,3 +12,6 @@ then install the node_modules and axios
 
 Start the local:3000 with
 1. npm start
+
+My learning note is too large for Github, therefore moved onto Google Drive at
+https://drive.google.com/file/d/1AndYYR-y8eBFUudea70tocJXYJGWZF4c/view?usp=sharing
